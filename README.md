@@ -25,4 +25,5 @@ Contributors
 Add your name below here:
 
 - Winston (winny-)
-- James (dwarfdwarf)
+- Mike Davis
+- James Yeazel (dwarfdwarf)
