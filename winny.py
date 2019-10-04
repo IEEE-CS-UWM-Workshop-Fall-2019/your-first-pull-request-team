@@ -7,5 +7,5 @@ def fact(n):
     return m
 
 if __name__ == '__main__':
-    number = int(input('Input a number: '))
+    number = int(input('Input a small number: '))
     print(fact(number))
